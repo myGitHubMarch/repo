@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myGitHubMarch/repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myGitHubMarch/repo/issues"
+  },
+  "homepage": "https://github.com/myGitHubMarch/repo#readme",
+  "devDependencies": {
+    "cypress": "^4.5.0"
+  }
+}
